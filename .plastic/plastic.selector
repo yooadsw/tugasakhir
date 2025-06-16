@@ -1,0 +1,4 @@
+repository "tugasakhir/tugasakhir@18968161085452@cloud"
+  path "/"
+    br "/main"
+    co "/main"
